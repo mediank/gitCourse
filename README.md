@@ -1,2 +1,1 @@
-gitCourse
-Learning Git and GitHub
+Hello World! 
